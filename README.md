@@ -1,2 +1,2 @@
 # StateUSB
-The USB State Checker Software
+USB State Checker for Windows
