@@ -1,2 +1,2 @@
 # StateUSB
-USB State Checker for Windows
+USB State Check for Windows
